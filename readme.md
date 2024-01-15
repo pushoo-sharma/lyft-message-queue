@@ -35,7 +35,7 @@ Before running the application, ensure that you have the following dependencies 
 
 ```bash
 
-git clone https://github.com/your-username/lyft-message-queue.git
+git clone https://github.com/pushoo-sharma/lyft-message-queue.git
 
 cd lyft-message-queue
 
